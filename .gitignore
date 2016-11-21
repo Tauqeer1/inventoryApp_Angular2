@@ -15,7 +15,8 @@
 .classpath
 *.launch
 .settings/
-
+app/images
+app/vendor
 # misc
 /.sass-cache
 /connect.lock
